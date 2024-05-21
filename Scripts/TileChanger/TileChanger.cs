@@ -22,6 +22,8 @@
       private Item needT;
       public List <Vector3> Items  = new List <Vector3> ();
 
+    //переписать. Не работает для тачейыы
+
       void Update ()
 
       {
